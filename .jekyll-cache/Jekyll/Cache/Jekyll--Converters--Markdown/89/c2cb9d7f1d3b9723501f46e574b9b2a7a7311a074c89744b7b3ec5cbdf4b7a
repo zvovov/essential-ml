@@ -1,0 +1,39 @@
+I"�<p><a href="https://numpy.org/">NumPy</a> forms the backbone of many machine learning libraries in python - scikit-learn, SciPy, TensorFlow, PyTorch, MXNet, JAX and many more due to the its speed of execution, in-built data structures and functions to support linear algebra operations. I started with the goal to understand how to write code using NumPy.</p>
+
+<!--more-->
+
+<p>I had not explicitly tried to do this in the past, although I had a fair bit of experience working with data structured provided by Python standard library - lists, tuples, dictionaries.</p>
+
+<p>I learnt a lot related to NumPy (this just scratched the surface, there’s a lot more to cover), and learnt a thing or two about some cool <em>new</em> (the last python version I really went into was 3.4) Python features I previously did not.</p>
+
+<p>Here is what I did:</p>
+<ul>
+  <li><strong><a href="https://numpy.org/doc/stable/user/absolute_beginners.html">NumPy - Absolute Beginners Tutorial</a></strong>: Documentation is the place to start when learning something new. I was looking for some sort of Quickstart, Tutorial and found this page. It covers NumPy basics and is perfect for people who are familiar with Python and want to learn NumPy. I know, I know, you are not an absolute beginner, but swallow up that ego and blaze through this page to get a sense of what you can do using NumPy. You may want to read the <a href="https://numpy.org/doc/stable/user/quickstart.html">Quickstart tutorial</a> too which is less wordy and covers things in detail</li>
+  <li><strong><a href="https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy">NumPy Challenges on HackerRank</a></strong>: Solving these 15 odd questions will make you write some code using NumPy functions. These are not challenging questions and the descriptions of the NumPy functions to be used is provided along with examples along with the questions. Recommended to go through these to familiarize yourself with writing code using NumPy</li>
+  <li><strong>Further Reading</strong>: NumPy library has a lot of functions. I did not want to write code covering all of them as my intention was to not be a deer-in-front-of-the-headlights when I see NumPy code. Going through the above resources provided a clear understanding of the basic concepts. <a href="https://numpy.org/doc/stable/user/quickstart.html#functions-and-methods-overview">More NumPy concepts and functions</a> would be tackled as and when encountered in the wild working with other data science libraries. Here are few other resources that I saved for later:
+    <ul>
+      <li><a href="https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md">100 NumPy exercises</a></li>
+      <li><a href="https://www.labri.fr/perso/nrougier/from-python-to-numpy/">From Python to NumPy book by Nicolas P. Rougier</a></li>
+      <li><a href="https://www.machinelearningplus.com/python/101-numpy-exercises-python/">ML+ 101 NumPy Exercises</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p>And, this is what I learnt:</p>
+<ul>
+  <li>NumPy arrays - create, reshape, concatenate, flip, indexing</li>
+  <li>dtype - types ‘int’, ‘float’, can convert strings to desired format directly</li>
+  <li>NumPy variety of functions - linear algebra,  polynomials</li>
+  <li>NumPy axis - finally</li>
+  <li>
+    <p>NumPy formatting printoptions</p>
+  </li>
+  <li>Python regex sub</li>
+  <li>Python unpacking operator *
+    <ul>
+      <li>PEP 448, and 3132</li>
+      <li>Using it with a , and map.</li>
+    </ul>
+  </li>
+</ul>
+:ET
